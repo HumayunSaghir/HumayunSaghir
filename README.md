@@ -85,13 +85,13 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=humayunsaghir&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HumayunSaghir&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
+
 
 ---
 
 ### 🔥 Contribution Streak
-
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humayunsaghir&theme=transparent" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=HumayunSaghir&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
