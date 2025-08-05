@@ -14,7 +14,7 @@
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif" />
-
+<br>
 ## 🌱 Currently Learning
 - Full Stack Development
 
