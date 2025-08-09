@@ -34,11 +34,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/humayun_rajpoot726)
 
 ---
-
-## 🛠️ Languages and Tools
+<h2 style="margin-bottom: 15px;">Languages and Tools</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,mysql,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,mysql,python,vscode,github" />
 </p>
+
+
+
 
 ---
 
