@@ -54,10 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayunsaghir&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,python,mysql" />
-</p>
-
 
 ---
 
