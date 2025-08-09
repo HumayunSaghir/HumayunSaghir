@@ -1,106 +1,69 @@
+<!-- Banner -->
 <p align="center">
-  <a href="https://HumayunSaghir.io">
-    <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner" />
-  </a>
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Humayun Saghir</h1>
-<h3 align="center">A passionate Computer Science student from Pakistan.</h3>
-<br>
+<h3 align="center">A passionate Computer Science student from Pakistan</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=humayunsaghir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=humayunsaghir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif" />
 
- 🌱 Currently Learning
+### 🌱 Currently Learning
 - Full Stack Development
 
-## 👨‍💻 Projects
-- All of my projects are available at [GitHub.com/HumayunSaghir](https://github.com/HumayunSaghir)
+### 👨‍💻 Projects
+- [All my projects on GitHub](https://github.com/HumayunSaghir)
 
-## 💬 Ask Me About
-- Tech and Space
+### 💬 Ask Me About
+- Tech & Space
 
-## 📫 Reach Me At
+### 📫 Reach Me At
 - **hr3296726@gmail.com**
 
 ---
 
 ## 🔗 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/hammayoun saghir" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/humayun rajpoot" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/humayun_rajpoot726" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammayounsaghir)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/humayunrajpoot)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/humayun_rajpoot726)
 
 ---
 
 ## 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,mysql,python" />
 </p>
 
 ---
 
-## 📈 GitHub Activity
-
-### 📌 Most Used Languages
-
+## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=humayunsaghir&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HumayunSaghir&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<table>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=HumayunSaghir&show_icons=true&theme=transparent&hide_border=true" />
-    </p>
-</table>
-
-
+## 📌 Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=humayunsaghir&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
-### 🔥 Contribution Graph
+## 🔥 GitHub Streak
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumayunSaghir&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=HumayunSaghir&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
-
-
-
-
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumayunSaghir&theme=tokyo-night&hide_border=true" />
+</p>
