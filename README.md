@@ -60,9 +60,9 @@
 ---
 
 ## 🔥 GitHub Streak
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=HumayunSaghir&theme=tokyonight&hide_border=true" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=HumayunSaghir&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
 
 ---
 
