@@ -36,8 +36,9 @@
 ---
 <h2 style="margin-bottom: 15px;">Languages and Tools</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,mysql,python,vscode,github,nodejs" />
+  <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,mysql,python,vscode,github,nodejs,express" />
 </p>
+
 
 
 
