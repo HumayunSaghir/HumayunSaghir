@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I am Humayun Saghir.</h1>
-<h3 align="center"> Excited about coding and problem-solving | CS Student</h3>
+<h3 align="center"> Excited about coding and problem-solving | CS Student.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=humayunsaghir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
