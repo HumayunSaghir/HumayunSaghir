@@ -53,10 +53,11 @@
 
 ---
 
-## 📌 Most Used Languages   
+ 
+## 📌 Most Used Languages  
 <div align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayunsaghir&langs_count=12&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800&exclude_repo=repo1,repo2&v=3" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayunsaghir&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&langs_count=10&cache_seconds=1800&v=3" 
     alt="Top Languages including C++"
     style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0,0,0,0.6); padding: 5px; transition: transform 0.3s ease-in-out;" 
     onmouseover="this.style.transform='scale(1.02)'" 
