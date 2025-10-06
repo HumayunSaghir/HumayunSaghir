@@ -22,7 +22,7 @@
 
 ---
 
-### 🏆 LeetCode Progress
+### 🏆 LeetCode
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-200%2B%20Solved-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Humayun8110/)
 - Solved 200+ LeetCode problems covering various topics and difficulties.  
 - Organized solutions for easy reference and learning.  
