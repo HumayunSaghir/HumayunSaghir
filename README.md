@@ -64,11 +64,6 @@
     onmouseover="this.style.transform='scale(1.02)'" 
     onmouseout="this.style.transform='scale(1)'"
   />
-
-  <!-- Manual list to include all languages -->
-  <p style="margin-top: 8px; color:#c9d1d9; font-size: 14px;">
-    Languages used: C++, C, Java, TypeScript, Python, JavaScript
-  </p>
 </div>
 
 
