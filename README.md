@@ -4,13 +4,15 @@
 </p>
 
 <h1 align="center">Hi 👋, I am Humayun Saghir.</h1>
-<h3 align="center">Excited about coding and problem-solving | CS Student.</h3>
+<h3 align="center"> Excited about coding and problem-solving | CS Student.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=humayunsaghir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
+
+<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif" />  -->
 
 ### 🌱 Currently Learning
 - Full Stack Software Development.
@@ -22,13 +24,12 @@
 
 ### 🏆 LeetCode Progress
 <p align="left">
-  <a href="https://leetcode.com/your-username/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
-  </a>
+  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
 </p>
-- Solved 200+ LeetCode problems covering various topics and difficulties.<br>
+- Solved 200+ LeetCode problems covering various topics and difficulties.<br>  
 - Organized solutions for easy reference and learning.<br>
 - Focused on practicing problem-solving, algorithms, and data structures.
+
 
 ---
 
@@ -56,38 +57,30 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <a href="https://github.com/HumayunSaghir" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=HumayunSaghir&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=HumayunSaghir&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
 ## 📌 Most Used Languages  
 <div align="left">
-  <a href="https://github.com/HumayunSaghir?tab=languages" target="_blank">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayunsaghir&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&langs_count=20&cache_seconds=1800&v=3" 
-      alt="Top Languages including C, C++, Java, TypeScript"
-      style="border-radius: 15px; padding: 5px;" 
-    />
-  </a>
+  <!-- GitHub Readme Stats Top Languages Chart -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayunsaghir&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&langs_count=20&cache_seconds=1800&v=3" 
+    alt="Top Languages including C, C++, Java, TypeScript"
+    style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0,0,0,0.6); padding: 5px; transition: transform 0.3s ease-in-out;" 
+    onmouseover="this.style.transform='scale(1.02)'" 
+    onmouseout="this.style.transform='scale(1)'"
+  />
 </div>
 
 ---
 
 ## 🔥 GitHub Streak
-<p align="left">
-  <a href="https://github.com/HumayunSaghir" target="_blank">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HumayunSaghir&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HumayunSaghir&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
----
 
 ## 📊 Contribution Graph
-<p align="left">
-  <a href="https://github.com/HumayunSaghir" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumayunSaghir&theme=tokyo-night&hide_border=true" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumayunSaghir&theme=tokyo-night&hide_border=true" />
 </p>
