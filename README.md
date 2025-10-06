@@ -56,13 +56,19 @@
  
 ## 📌 Most Used Languages  
 <div align="left">
+  <!-- GitHub Readme Stats Top Languages Chart -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayunsaghir&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&langs_count=10&cache_seconds=1800&v=3" 
-    alt="Top Languages including C++"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayunsaghir&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9&langs_count=20&cache_seconds=1800&v=3" 
+    alt="Top Languages including C, C++, Java, TypeScript"
     style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0,0,0,0.6); padding: 5px; transition: transform 0.3s ease-in-out;" 
     onmouseover="this.style.transform='scale(1.02)'" 
-    onmouseout="this.style.transform='scale(1)'" 
+    onmouseout="this.style.transform='scale(1)'"
   />
+
+  <!-- Manual list to include all languages -->
+  <p style="margin-top: 8px; color:#c9d1d9; font-size: 14px;">
+    Languages used: C++, C, Java, TypeScript, Python, JavaScript
+  </p>
 </div>
 
 
