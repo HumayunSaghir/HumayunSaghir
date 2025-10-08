@@ -3,7 +3,7 @@
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I am Humayun Saghir.</h1>
+<h1 align="center">Hi 👋, I am Muneeb Khan.</h1>
 <h3 align="center"> Excited about coding and problem-solving | CS Student.</h3>
 
 <p align="center">
