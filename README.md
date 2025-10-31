@@ -76,7 +76,13 @@
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HumayunSaghir&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=HumayunSaghir&theme=tokyonight&hide_border=true)](https://github.com/HumayunSaghir)
+
+
+
+
+
+
 
 
 ## 📊 Contribution Graph
