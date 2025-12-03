@@ -28,8 +28,7 @@
 - Organized solutions for easy reference and learning.  
 - Focused on practicing problem-solving, algorithms, and data structures.
 
-
-
+![Top Languages](https://readme-stats-ten-gilt.vercel.app/api/top-langs/?username=humayunsaghir&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ### 💬 Ask Me About
