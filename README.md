@@ -56,10 +56,8 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HumayunSaghir&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HumayunSaghir&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
 </p>
-
----
 
 ## 📌 Most Used Languages  
 <div align="left">
