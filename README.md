@@ -46,8 +46,10 @@
 
 <h2 style="margin-bottom: 15px;">Languages and Tools</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,css,html,js,vscode,github,nodejs,express,postman,mongodb,bootstrap" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,mongodb,mysql,bootstrap,postman,express,nodejs,react,js,github,vscode,html,css,python,java" alt="My Skills" />
 </p>
+
+
 
   
 ---
