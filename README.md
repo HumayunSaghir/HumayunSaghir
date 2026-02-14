@@ -30,7 +30,7 @@
 ---
 
 ### 💬 Ask Me About
-- Tech & Space.
+- Tech & Space
 
 ### 📫 Reach Me At
 - **hr3296726@gmail.com**
