@@ -17,7 +17,7 @@
 ### 🌱 Currently Learning
 - Full Stack Software Development.
 
-### 👨‍💻 Projects
+### 👨‍💻 Projects.
 - [All my projects on GitHub](https://github.com/HumayunSaghir)
 
 ---
