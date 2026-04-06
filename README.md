@@ -46,10 +46,13 @@
 
 <h2 style="margin-bottom: 15px;">Languages and Tools</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,mongodb,mysql,bootstrap,postman,express,nodejs,react,js,github" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,mongodb,mysql,bootstrap,postman,express,nodejs,react,js" alt="My Skills" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,python,java,linux,git,jenkins,docker" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,html,css,python,java,linux,git,jenkins" alt="My Skills" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" alt="My Skills" />
 </p>
 
 
