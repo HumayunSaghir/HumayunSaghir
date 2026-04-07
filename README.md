@@ -15,7 +15,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif" />  -->
 ### 🌱 Currently Learning
-- Full Stack Software Development.
+- Full Stack Software Development
 
 ### 👨‍💻 Projects
 - [All my projects on GitHub](https://github.com/HumayunSaghir)
