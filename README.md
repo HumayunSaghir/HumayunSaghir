@@ -60,33 +60,18 @@
   
 ---
 
-## 📈 GitHub Stats
+📈 GitHub Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HumayunSaghir&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" /> </p>
+
+## 📌 Most Used Languages
+
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HumayunSaghir&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumayunSaghir&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most Used Languages" />
 </p>
-
-## 📌 Most Used Languages  
-![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=humayunsaghir&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
-
-
-
-
-
 
 ---
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=HumayunSaghir&theme=tokyonight&hide_border=true)](https://github.com/HumayunSaghir)
 
-
-
-
-
-
-
-
-## 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumayunSaghir&theme=tokyo-night&hide_border=true" />
-</p>
