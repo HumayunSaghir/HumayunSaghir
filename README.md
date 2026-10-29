@@ -62,12 +62,12 @@
 
 📈 GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HumayunSaghir&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" /> </p>
+<p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HumayunSaghir&theme=tokyonight" height="165" alt="GitHub Stats" /> </p>
 
 ## 📌 Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumayunSaghir&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HumayunSaghir&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
